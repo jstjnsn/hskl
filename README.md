@@ -2,7 +2,8 @@
 
 Commands:
 
-- `ghc ./index.hs`, followed by `./index`
-- `ghci ./index.hs`, followed by `main`
-- `runghc ./index.hs`
-- `runghc ./index.hs > index.html`
+- `ghc ./Html.hs`, followed by `./Html`
+- `ghci ./Html.hs`, followed by `main`
+- `runghc ./Html.hs`
+- `runghc ./Html.hs > index.html`
+- `firefox index.html` or `open -a "Firefox" index.html`
