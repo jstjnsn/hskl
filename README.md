@@ -1,6 +1,16 @@
 # hskl
 
-Commands:
+I'm trying to do a Haskell.
+
+## getting started
+
+https://www.haskell.org/ghcup/#
+
+## tutorial i'm following
+
+https://learn-haskell.blog/
+
+## commands
 
 - `ghc ./Html.hs`, followed by `./Html`
 - `ghci ./Html.hs`, followed by `main`
