@@ -12,8 +12,8 @@ https://learn-haskell.blog/
 
 ## commands
 
-- `ghc ./Html.hs`, followed by `./Html`
-- `ghci ./Html.hs`, followed by `main`
-- `runghc ./Html.hs`
-- `runghc ./Html.hs > index.html`
-- `firefox index.html` or `open -a "Firefox" index.html`
+- Build binary: `ghc ./Html.hs`, followed by `./Html`
+- Run code via interpreter: `ghci ./Html.hs`, followed by `main`
+- Run code directly: `runghc ./Html.hs`
+- Send code output to html: `runghc ./Html.hs > index.html`
+- Open Html in a browser: `firefox index.html` or `open -a "Firefox" index.html`
